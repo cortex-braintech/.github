@@ -1,10 +1,10 @@
 <img src="logo.png" style="object-fit:contain; max-width:400px; height:auto;"/>
+
 # Cortex Brain Technologies
-=========================
 
-Welcome to the official GitHub Organization of **Cortex Brain Technologies**!
+## Welcome to the official GitHub Organization of **Cortex Brain Technologies**!
 
-About Us
+### About Us
 --------
 
 At Cortex Brain Technologies, we are revolutionizing the way people with neurocognitive conditions, such as ADHD, autism, and depression. interact with our Brain-Computer Interface (BCI) through innovative and accessible neurofeedback technology. Our mission is to empower individuals by providing at-home BCI headsets designed to improve quality of life through real-time neurofeedback therapy.
@@ -26,12 +26,12 @@ Our research and development are focused on building novel **BCI headsets** that
 
 ## We combine advanced neuroscience, technology, and a deep understanding of the challenges faced by individuals with neurocognitive conditions.
 
-Why It Matters
+### Why It Matters
 --------------
 
 With the prevalence of autism and ADHD on the rise, many families face financial and logistical barriers to accessing neurofeedback therapy. Our goal is to remove these barriers, offering a solution that is not only effective but also financially feasible.
 
-How We Work
+### How We Work
 -----------
 
 We value collaboration and transparency. Our GitHub repositories house a range of open-source and proprietary projects that span:
@@ -43,7 +43,7 @@ We value collaboration and transparency. Our GitHub repositories house a range o
 
 We welcome contributions from developers, neuroscientists, and innovators worldwide.
 
-Get Involved
+## Get Involved
 ------------
 
 Whether you are a developer, researcher, or just someone passionate about advancing neurotechnology, we invite you to collaborate with us. Together, we can shape the future of BCI technology and improve lives.
