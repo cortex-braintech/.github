@@ -1,5 +1,3 @@
-# .github
-
 # Cortex Brain Technologies
 =========================
 
