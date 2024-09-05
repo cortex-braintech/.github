@@ -1,4 +1,4 @@
-<img src="logo.png" style="object-fit:cover; width:100%; height:auto;"/>
+<img src="logo.png" style="object-fit:cover; max-width:600px; height:auto;"/>
 # Cortex Brain Technologies
 =========================
 
